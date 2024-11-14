@@ -21,7 +21,7 @@ Meu nome é Marcos Trömel, tenho 47 anos e estou tendo a oportunidade de me ded
 
 ### 🔭 Meu trabalho atual:
 
-Atualmente trabalho como Supervisor de TI em uma empresa de pequeno porte onde tenho a oportunidade de trabalhar com praticamente todas as áreas da tecnologia, por exemplo:
+Atualmente trabalho como Supervisor de TI na [GDB Metalmachinery](https://www.gdb.ind.br) onde tenho a oportunidade de trabalhar com praticamente todas as áreas da tecnologia, por exemplo:
 * Administração e manutenção de sistema ERP
 * Suporte aos usuários (55 no total)
 * Administração e manutenção dos servidores físicos e virtuais
@@ -33,6 +33,14 @@ Atualmente trabalho como Supervisor de TI em uma empresa de pequeno porte onde t
 
 ### 🌱 Estou estudando:
 
-Desde 2022 estou fazendo um bacharelado em Engenharia de Software e estudando diversas linguagem de programação. Até o momento a que mais de aprofundei foi o Python, HTML e CSS.
+Desde 2022 estou fazendo um bacharelado em Engenharia de Software na [Unifatecie](https://unifatecie.edu.br/) e estudando diversas linguagem de programação com o professor [Luiz Otavio Miranda](https://www.youtube.com/c/Ot%C3%A1vioMiranda). Até o momento as que mais de aprofundei foram o Python, HTML e CSS.
 
 Meu objetivo de estudo é adquirir fluência no Python e alguns frameworks relacionados, como o Django.
+
+### 📊 Estatísticas no GitHub
+
+![mtromel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtromel&show_icons=true&theme=dracula)
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtromel&layout=compact)
