@@ -33,7 +33,7 @@ Atualmente trabalho como Supervisor de TI na [GDB Metalmachinery](https://www.gd
 
 ### 🌱 Estou estudando:
 
-Desde 2022 estou fazendo um bacharelado em Engenharia de Software na [Unifatecie](https://unifatecie.edu.br/) e estudando diversas linguagem de programação com o professor [Luiz Otavio Miranda](https://www.youtube.com/c/Ot%C3%A1vioMiranda). Até o momento as que mais de aprofundei foram o Python, HTML e CSS.
+Desde 2022 estou fazendo um bacharelado em Engenharia de Software na [Unifatecie](https://unifatecie.edu.br/) e estudando diversas linguagem de programação com o professor [Luiz Otavio Miranda](https://www.youtube.com/c/Ot%C3%A1vioMiranda). Até o momento as que mais me aprofundei foram o Python, HTML e CSS.
 
 Meu objetivo de estudo é adquirir fluência no Python e alguns frameworks relacionados, como o Django.
 
